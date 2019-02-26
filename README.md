@@ -7,6 +7,7 @@ The SuperCollider code can be used as a simple feature extractor but is intended
 
 Get SuperCollider here: https://supercollider.github.io/download
 Get Wekinator: http://www.wekinator.org/  
+Feedbacker at Github: https://github.com/Adampultz/Feedbacker
 
 Recording and training can be controlled from the SC GUI, while training algorithms need to to be changed in Wekinator. 
 
